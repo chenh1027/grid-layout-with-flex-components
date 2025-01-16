@@ -17,7 +17,6 @@ body {
   border-radius: 8px;
   padding: 1rem;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .emoji h2 {
@@ -37,6 +36,7 @@ body {
   padding: 1rem;
   border-radius: 8px;
   order: 4;
+  margin-top: auto;
 }
 
 .icon {
